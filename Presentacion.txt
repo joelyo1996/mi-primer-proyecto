@@ -1,0 +1,6 @@
+Nombre:
+Curso:
+Escuela:
+Mi videojuego favorito:
+Mi programa favorito:
+Algo que me gustaría aprender:
