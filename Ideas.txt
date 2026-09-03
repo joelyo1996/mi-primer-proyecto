@@ -1,0 +1,3 @@
+Crear un archivo llamado ideas.txt.
+Escribir 3 ideas de proyectos que les gustaría realizar.
+Guardar los cambios con un nuevo commit.
